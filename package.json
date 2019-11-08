@@ -1,5 +1,5 @@
 {
-  "name": "vue-design-system",
+  "name": "hc-design-system",
   "version": "3.5.7",
   "description": "Vue Design System is an open-source tool for building Design Systems with Vue.js",
   "author": "viljamis <me@viljamis.com>",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viljamis/vue-design-system.git"
+    "url": "git+https://github.com/hc-pbezant/hc-design-system"
   },
   "keywords": [
     "vue design system",
@@ -107,8 +107,6 @@
   },
   "dependencies": {
     "acorn": "^7.1.0",
-    "browserslist": "^4.7.2",
-    "caniuse-lite": "^1.0.30001008",
     "lodash": "^4.17.15",
     "mini-css-extract-plugin": "^0.4.5",
     "postcss-import": "^12.0.1",
@@ -138,6 +136,8 @@
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
+    "browserslist": "^4.7.2",
+    "caniuse-lite": "^1.0.30001008",
     "chalk": "^2.4.1",
     "codemirror": "^5.42.0",
     "compression-webpack-plugin": "^2.0.0",
